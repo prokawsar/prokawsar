@@ -9,6 +9,9 @@
 - 👯 I’m looking to collaborate on ...
   - [x] Nextjs
   - [x] Reactjs App
+
+- 💻 Learning ...
+  - [ ] Blockchain development
   
 - 📫 How to reach me: ...
    :smile: As you can see my email on left side.
