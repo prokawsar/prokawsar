@@ -17,8 +17,8 @@
 
 <b>&#128200; Competitive Programming</b>
 <p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/prokawsar?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/prokawsar/cf-stats/master/output/light_card.svg" />
+<img height="270em" width="500em" src="https://leetcard.jacoblin.cool/prokawsar?theme=light&font=Karma&ext=contest" />
+<img height="240em" src="https://raw.githubusercontent.com/prokawsar/cf-stats/master/output/light_card.svg" />
 </p>
 
 <h3 align="left">Github Stats:</h3>
