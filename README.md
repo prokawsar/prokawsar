@@ -17,8 +17,8 @@
 
 
 <h3 align="left">Github Stats:</h3>
-<p float="left"><img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prokawsar&show_icons=true&title_color=ad1fe0&bg_color=e6e6e6&locale=en&layout=compact" alt="prokawsar" />
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=prokawsar&show_icons=true&title_color=b321e8&bg_color=ededed&locale=en" alt="prokawsar" /></p>
+<p float="left"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=prokawsar&show_icons=true&title_color=ad1fe0&bg_color=e6e6e6&locale=en&layout=compact" alt="prokawsar" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prokawsar&show_icons=true&title_color=b321e8&bg_color=ededed&locale=en" alt="prokawsar" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
