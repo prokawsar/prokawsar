@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prokawsar" alt="prokawsar" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain development, GraphQL**
+- 🌱 I’m currently learning **Blockchain development, GraphQL, Supabase, Postgres**
 
 - 👯 I’m looking to collaborate on **Any Svelte or React project**
 
