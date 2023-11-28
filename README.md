@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm Kawsar Ahmed</h1>
 <h3 align="left">Software Engineer | Svelte Expert</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prokawsar&label=PROFILE%20VIEWS&color=blueviolet&style=flat" alt="prokawsar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prokawsar" alt="prokawsar" /></a> </p>
 
