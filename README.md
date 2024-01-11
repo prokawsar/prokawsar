@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Kawsar Ahmed</h1>
-<h3 align="left">Software Engineer | Svelte Expert</h3>
+<h3 align="left">Software Engineer | React, Next.js, Svelte, SvelteKit</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prokawsar&label=PROFILE%20VIEWS&color=blueviolet&style=flat" alt="prokawsar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prokawsar" alt="prokawsar" /></a> </p>
@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Any Svelte or React project**
 
-- 💬 Ask me about **Frontend, Svelte, SvelteKit**
+- 💬 Ask me about **Frontend, React, Svelte, SvelteKit**
 
 - 📫 How to reach me **prokawsar@gmail.com**
 
@@ -16,7 +16,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-    <a href="https://svelte.dev" target="_blank" rel="noreferrer">
+  <a href="https://svelte.dev" target="_blank" rel="noreferrer">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg"
       alt="svelte"
@@ -24,11 +24,28 @@
       height="40"
     />
   </a>
+  
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+      alt="svelte"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
+      alt="svelte"
+      width="40"
+      height="40"
+    />
+  </a>
+  
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
-    rel="noreferrer"
-  >
+    rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
