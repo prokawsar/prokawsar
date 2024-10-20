@@ -1,15 +1,11 @@
 <h1 align="left">Hi 👋, I'm Kawsar Ahmed</h1>
-<h3 align="left">Software Engineer | React, Next.js, Svelte, SvelteKit</h3>
+<h3 align="left">Full Stack Developer | React, Next.js, Svelte, SvelteKit, JavaScript, TypeSript</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prokawsar&label=PROFILE%20VIEWS&color=blueviolet&style=flat" alt="prokawsar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prokawsar" alt="prokawsar" /></a> </p>
 
 - 🌱 I’m currently learning **DevOps**
-
 - 👯 I’m looking to collaborate on **Any Svelte or React project**
-
 - 💬 Ask me about **Frontend, React, Svelte, SvelteKit**
-
 - 📫 How to reach me **prokawsar@gmail.com**
 
 
